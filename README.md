@@ -1,7 +1,5 @@
 #Daze Material UI Concept
 
-====
-
 Because Photoshop is not fun. 
 
 This is using Materialize.
@@ -28,3 +26,5 @@ Tag options:
 * `music`
 * `study`
 * `event`
+
+Note the nested `div` tags, this is important so it actually stays square and doesn't get way too big. Better than using JQuery for this purpose, yo.
