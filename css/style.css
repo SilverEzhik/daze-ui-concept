@@ -22,8 +22,22 @@ body
 	background-image: url("../img/map-fake-overlay.png");
 }
 
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */  
+  margin-top: -50px;
+  margin-left: -50px;
+}
 
-
+.add-pin
+{
+	background-image: url("../img/pin.png");
+	background-size: cover;
+	width: 100px;
+	height: 100px;
+}
 
 
 
